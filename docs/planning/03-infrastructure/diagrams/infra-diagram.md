@@ -1,3 +1,4 @@
+```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#0EA5E9', 'primaryTextColor': '#fff'}}}%%
 
 graph TB
@@ -49,3 +50,4 @@ graph TB
     SF --> SEN
     CDN --> VA
     CDN --> GA
+```

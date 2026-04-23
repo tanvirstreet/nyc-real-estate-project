@@ -1,3 +1,4 @@
+```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#7C3AED', 'primaryTextColor': '#fff'}}}%%
 
 graph TB
@@ -59,3 +60,4 @@ graph TB
     LS --> TB_HS
     NE --> TA_TW
     NE --> TB_TW
+```

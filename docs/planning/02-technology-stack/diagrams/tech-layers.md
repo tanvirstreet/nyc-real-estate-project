@@ -1,3 +1,4 @@
+```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#2563EB', 'primaryTextColor': '#fff'}}}%%
 
 graph TB
@@ -72,3 +73,4 @@ graph TB
     VCL --> N
     GH --> VCL
     SEN --> API
+```

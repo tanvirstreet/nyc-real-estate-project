@@ -1,3 +1,4 @@
+```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#059669', 'primaryTextColor': '#fff'}}}%%
 
 flowchart LR
@@ -59,3 +60,4 @@ flowchart LR
 
     MT --> CL
     RE --> LI
+```
