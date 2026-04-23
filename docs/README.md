@@ -302,11 +302,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Sprint 5: Testing & Launch
 
 ---
-
-<div align="center">
-
-**Built with ❤️ for Real Estate Professionals**
-
-*[Documentation generated with GitHub Pages](https://pages.github.com/)*
-
-</div>

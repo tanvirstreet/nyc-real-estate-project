@@ -212,6 +212,7 @@ Based on the [Phased Implementation Plan](../04-phased-implementation/implementa
 ### 4.2 Task-Level Breakdown
 
 #### Sprint 0: Foundation (24-32 hours)
+
 | Task | Hours | Owner |
 |---|---|---|
 | Project setup (Next.js, TypeScript, ESLint) | 2h | DevOps/Full-Stack |
@@ -225,6 +226,7 @@ Based on the [Phased Implementation Plan](../04-phased-implementation/implementa
 | **Buffer** (unforeseen issues) | 2-4h | — |
 
 #### Sprint 1: Digital Hub (80-120 hours)
+
 | Task | Hours | Owner |
 |---|---|---|
 | Landing page UI | 12h | Full-Stack |
@@ -239,6 +241,7 @@ Based on the [Phased Implementation Plan](../04-phased-implementation/implementa
 | **Buffer** | 8-12h | — |
 
 #### Sprint 2: CRM & Leads (56-80 hours)
+
 | Task | Hours | Owner |
 |---|---|---|
 | HubSpot integration setup | 8h | Full-Stack |
@@ -253,6 +256,7 @@ Based on the [Phased Implementation Plan](../04-phased-implementation/implementa
 | **Buffer** | 6-10h | — |
 
 #### Sprint 3: Nurture (64-96 hours)
+
 | Task | Hours | Owner |
 |---|---|---|
 | Drip campaign engine | 12h | Full-Stack |
@@ -266,6 +270,7 @@ Based on the [Phased Implementation Plan](../04-phased-implementation/implementa
 | **Buffer** | 8-12h | — |
 
 #### Sprint 4: Content (64-96 hours)
+
 | Task | Hours | Owner |
 |---|---|---|
 | Content generation (OpenAI) | 8h | AI/ML |
@@ -279,6 +284,7 @@ Based on the [Phased Implementation Plan](../04-phased-implementation/implementa
 | **Buffer** | 8-12h | — |
 
 #### Sprint 5: Polish & Launch (32-48 hours)
+
 | Task | Hours | Owner |
 |---|---|---|
 | E2E test suite (Playwright) | 8h | QA |
