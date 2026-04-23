@@ -26,6 +26,7 @@ This platform follows these data principles:
 ## 2. Database Schema Overview
 
 > See diagram: [db-schema.md](diagrams/db-schema.md)
+![db-schema](./diagrams/db-schema.png)
 
 **Technology**: PostgreSQL 15+ (via Supabase)
 **Extensions**: `pgvector` (vector similarity), `pg_trgm` (fuzzy text search)

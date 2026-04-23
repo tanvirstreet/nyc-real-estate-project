@@ -26,6 +26,13 @@ The Autonomous Real Estate Agent is a comprehensive SaaS platform designed to au
 - **📊 Intelligent Lead Scoring**: ML-powered prospect qualification
 - **🎨 Modern SaaS Architecture**: Multi-tenant, scalable infrastructure
 
+## 🚀 Quick Start
+
+1. **Explore the Documentation**: Start with our [Business Requirements](requirement/BRD.html)
+2. **Understand the Architecture**: Review our [System Architecture](planning/01-architecture/system-architecture.html)
+3. **Plan Your Implementation**: Check our [Implementation Guide](planning/04-phased-implementation/implementation-plan.html)
+
+
 ---
 
 ## 📚 Documentation
@@ -67,34 +74,7 @@ The Autonomous Real Estate Agent is a comprehensive SaaS platform designed to au
 
 ---
 
-## 🚀 Quick Start
-
-### For Developers
-
-```bash
-# Clone the repository
-git clone https://github.com/tanvir-bk/nyc-real-estate.git
-
-# Navigate to project directory
-cd nyc-real-estate
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-### For Real Estate Professionals
-
-1. **Explore the Documentation**: Start with our [Business Requirements](requirement/BRD.html)
-2. **Understand the Architecture**: Review our [System Architecture](planning/01-architecture/system-architecture.html)
-3. **Plan Your Implementation**: Check our [Implementation Guide](planning/04-phased-implementation/implementation-plan.html)
-4. **Contact Us**: Get in touch for deployment and customization
-
----
-
-## 📖 Project Structure
+## 📖 Documents Structure
 
 ```
 docs/
