@@ -1,3 +1,4 @@
+```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#4F46E5', 'primaryTextColor': '#fff', 'primaryBorderColor': '#3730A3', 'lineColor': '#6366F1', 'secondaryColor': '#F59E0B', 'tertiaryColor': '#10B981'}}}%%
 
 graph TB
@@ -69,3 +70,4 @@ graph TB
     NE --> PG
     CF --> PG
     CF --> S3
+```
