@@ -25,7 +25,7 @@ This platform follows **observability best practices**:
 
 ## 2. Monitoring Stack Overview
 
-> See diagram: [monitoring-stack.mmd](diagrams/monitoring-stack.mmd)
+> See diagram: [monitoring-stack.md](diagrams/monitoring-stack.md)
 
 **Core Tools**:
 - **Vercel Analytics**: Web vitals, performance monitoring

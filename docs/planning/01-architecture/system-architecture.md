@@ -24,7 +24,7 @@ This platform is architected as a **SaaS-ready, multi-tenant system** from day o
 
 ## 2. High-Level Architecture
 
-> See diagram: [system-overview.mmd](diagrams/system-overview.mmd)
+> See diagram: [system-overview.md](diagrams/system-overview.md)
 
 ### Layers
 

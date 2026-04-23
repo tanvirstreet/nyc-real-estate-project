@@ -13,7 +13,7 @@ title: Technology Stack
 
 ## 1. Stack Summary
 
-> See diagram: [tech-layers.mmd](diagrams/tech-layers.mmd)
+> See diagram: [tech-layers.md](diagrams/tech-layers.md)
 
 This stack is optimized for a SaaS real estate platform: **rapid development**, **low operational cost**, **serverless-first**, and **easy scaling**. Every choice is made to minimize DevOps overhead while maximizing capability.
 

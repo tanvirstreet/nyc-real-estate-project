@@ -20,18 +20,18 @@ docs/planning/
 │   ├── system-architecture.md         ← SaaS architecture overview
 │   ├── saas-tenancy-model.md          ← Multi-tenancy design
 │   └── diagrams/
-│       ├── system-overview.mmd        ← Mermaid: high-level architecture
-│       ├── saas-layers.mmd            ← Mermaid: SaaS layer diagram
-│       └── data-flow.mmd              ← Mermaid: data flow diagram
+│       ├── system-overview.md        ← Mermaid: high-level architecture
+│       ├── saas-layers.md            ← Mermaid: SaaS layer diagram
+│       └── data-flow.md              ← Mermaid: data flow diagram
 ├── 02-technology-stack/
 │   ├── tech-stack.md                  ← Full SaaS tech stack decisions
 │   └── diagrams/
-│       └── tech-layers.mmd            ← Mermaid: tech layer diagram
+│       └── tech-layers.md            ← Mermaid: tech layer diagram
 ├── 03-infrastructure/
 │   ├── infrastructure.md              ← Bare-minimum cloud setup
 │   ├── cost-analysis.md               ← Detailed cost breakdown
 │   └── diagrams/
-│       └── infra-diagram.mmd          ← Mermaid: infrastructure topology
+│       └── infra-diagram.md          ← Mermaid: infrastructure topology
 ├── 04-phased-implementation/
 │   ├── implementation-plan.md         ← Sprint-by-sprint plan
 │   ├── sprint-0-foundation.md
@@ -43,14 +43,14 @@ docs/planning/
 │   ├── integration-overview.md        ← All 3rd-party integrations
 │   ├── api-contracts.md               ← API interface definitions
 │   └── diagrams/
-│       ├── integration-map.mmd        ← Mermaid: integration map
-│       └── sequence-lead-capture.mmd  ← Mermaid: lead capture sequence
+│       ├── integration-map.md        ← Mermaid: integration map
+│       └── sequence-lead-capture.md  ← Mermaid: lead capture sequence
 ├── 06-data-monitoring/
 │   ├── data-architecture.md           ← Data models and strategy
 │   ├── monitoring-strategy.md         ← Observability and alerting
 │   └── diagrams/
-│       ├── db-schema.mmd              ← Mermaid: database ERD
-│       └── monitoring-stack.mmd       ← Mermaid: monitoring topology
+│       ├── db-schema.md              ← Mermaid: database ERD
+│       └── monitoring-stack.md       ← Mermaid: monitoring topology
 ├── 07-risk-analysis/
 │   └── risk-register.md               ← Risk register and mitigations
 ├── 08-verification-plan/
