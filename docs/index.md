@@ -137,24 +137,3 @@ docs/
 ```
 
 ---
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Contact
-
-- **GitHub**: [tanvir-bk](https://github.com/tanvir-bk)
-- **Email**: your-email@example.com
-
----
-
-**Built with ❤️ using Next.js, TypeScript, and AI technologies**
