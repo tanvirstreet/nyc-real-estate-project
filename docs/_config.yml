@@ -1,0 +1,15 @@
+# GitHub Pages Configuration for docs directory
+# This file ensures GitHub Pages uses the docs/ directory as the source
+
+# Enable Mermaid support
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+# Theme
+theme: minima
+
+# Site settings
+title: The Autonomous Real Estate Agent
+description: AI-Powered SaaS Platform Documentation

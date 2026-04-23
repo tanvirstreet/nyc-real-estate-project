@@ -1,0 +1,44 @@
+# GitHub Pages Configuration
+theme: minima
+title: The Autonomous Real Estate Agent
+description: AI-Powered SaaS Platform for Real Estate Professionals
+
+# Tell GitHub Pages to look in the docs directory
+include:
+  - docs
+
+# Markdown processing
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+# Plugins
+plugins:
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitignore
+  - .claude/
+  - LICENSE
+  - README.md
+  - package.json
+  - package-lock.json
