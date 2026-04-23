@@ -1,3 +1,8 @@
+---
+layout: page
+title: Verification Plan
+---
+
 # Verification Plan — QA, Testing, and UAT
 
 **Project**: The Autonomous Real Estate Agent

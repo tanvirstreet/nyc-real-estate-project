@@ -1,3 +1,8 @@
+---
+layout: page
+title: The Autonomous Real Estate Agent
+---
+
 # The Autonomous Real Estate Agent
 
 **AI-Powered SaaS Platform for Real Estate Professionals**

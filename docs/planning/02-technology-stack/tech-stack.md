@@ -1,3 +1,8 @@
+---
+layout: page
+title: Technology Stack
+---
+
 # Technology Stack — SaaS Platform
 
 **Project**: The Autonomous Real Estate Agent  

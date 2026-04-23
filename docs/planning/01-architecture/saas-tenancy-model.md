@@ -1,3 +1,8 @@
+---
+layout: page
+title: SaaS Multi-Tenancy Model
+---
+
 # SaaS Multi-Tenancy Model
 
 **Project**: The Autonomous Real Estate Agent  

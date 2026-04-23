@@ -1,3 +1,8 @@
+---
+layout: page
+title: System Architecture
+---
+
 # System Architecture — SaaS Design
 
 **Project**: The Autonomous Real Estate Agent  

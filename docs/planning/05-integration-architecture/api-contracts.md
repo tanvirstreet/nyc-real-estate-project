@@ -1,3 +1,8 @@
+---
+layout: page
+title: API Contracts
+---
+
 # API Contracts — Interface Definitions
 
 **Project**: The Autonomous Real Estate Agent

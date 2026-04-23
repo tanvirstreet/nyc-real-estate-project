@@ -1,3 +1,8 @@
+---
+layout: page
+title: Sprint 4 - Content
+---
+
 # Sprint 4 — Phase 4: The Content Factory
 
 **Duration**: 8 working days  

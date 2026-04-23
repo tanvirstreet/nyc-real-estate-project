@@ -1,3 +1,8 @@
+---
+layout: page
+title: Cost Analysis
+---
+
 # Cost Analysis — Bare Minimum to Scale
 
 **Project**: The Autonomous Real Estate Agent  

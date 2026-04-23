@@ -1,3 +1,8 @@
+---
+layout: page
+title: Sprint 0 - Project Foundation
+---
+
 # Sprint 0 — Project Foundation
 
 **Duration**: 3 working days  

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Sprint 1 - Digital Hub
+---
+
 # Sprint 1 — Phase 1: Digital Hub & AI Lead Capture
 
 **Duration**: 10 working days  

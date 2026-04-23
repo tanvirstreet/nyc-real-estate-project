@@ -1,3 +1,8 @@
+---
+layout: page
+title: Sprint 2 - CRM & Leads
+---
+
 # Sprint 2 — Phase 2: CRM & Intelligent Lead Management
 
 **Duration**: 7 working days  

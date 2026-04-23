@@ -1,3 +1,8 @@
+---
+layout: page
+title: Sprint 3 - Nurture
+---
+
 # Sprint 3 — Phase 3: Automated Nurture & Closing
 
 **Duration**: 8 working days  

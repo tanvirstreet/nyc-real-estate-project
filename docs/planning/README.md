@@ -1,3 +1,8 @@
+---
+layout: page
+title: Project Planning Documentation
+---
+
 # Project Planning Documentation
 
 **Project**: The Autonomous Real Estate Agent (SaaS Platform)  

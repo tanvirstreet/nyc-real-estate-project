@@ -1,3 +1,8 @@
+---
+layout: page
+title: Monitoring Strategy
+---
+
 # Monitoring Strategy — Observability and Alerting
 
 **Project**: The Autonomous Real Estate Agent

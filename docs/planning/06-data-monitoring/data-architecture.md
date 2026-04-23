@@ -1,3 +1,8 @@
+---
+layout: page
+title: Data Architecture
+---
+
 # Data Architecture — Models and Strategy
 
 **Project**: The Autonomous Real Estate Agent

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Infrastructure Overview
+---
+
 # Infrastructure — Bare Minimum Setup
 
 **Project**: The Autonomous Real Estate Agent  

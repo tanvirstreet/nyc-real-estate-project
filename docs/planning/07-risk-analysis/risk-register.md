@@ -1,3 +1,8 @@
+---
+layout: page
+title: Risk Register
+---
+
 # Risk Register — Analysis and Mitigation
 
 **Project**: The Autonomous Real Estate Agent

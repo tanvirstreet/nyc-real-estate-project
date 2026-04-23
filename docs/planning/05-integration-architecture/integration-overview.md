@@ -1,3 +1,8 @@
+---
+layout: page
+title: Integration Architecture
+---
+
 # Integration Architecture — Third-Party Services
 
 **Project**: The Autonomous Real Estate Agent

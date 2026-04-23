@@ -1,3 +1,8 @@
+---
+layout: page
+title: Phased Implementation Plan
+---
+
 # Phased Implementation Plan — Overview
 
 **Project**: The Autonomous Real Estate Agent  
