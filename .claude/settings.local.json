@@ -8,7 +8,8 @@
       "Bash(mkdir -p /Users/tanvir.inflack/workspace/nyc-real-estate/docs/planning/09-resources)",
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(git rm *)"
     ]
   }
 }
