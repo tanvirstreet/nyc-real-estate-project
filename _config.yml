@@ -1,5 +1,5 @@
 # GitHub Pages Configuration
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 title: The Autonomous Real Estate Agent
 description: AI-Powered SaaS Platform for Real Estate Professionals
 author: Your Name
@@ -16,6 +16,7 @@ kramdown:
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-coffeescript
   - jekyll-gist
   - jekyll-mentions
@@ -27,6 +28,20 @@ plugins:
 
 # Just the Docs theme settings
 # Navigation is automatically generated from folder structure
+just-the-docs:
+  # Enable or disable the search feature
+  search_enabled: true
+
+  # Set the heading level for the sidebar navigation
+  heading_level: 2
+
+  # Enable or disable heading anchors
+  heading_anchors: true
+
+  # Aux links for the upper right navigation
+  aux_links:
+    "View on GitHub":
+      - "//github.com/tanvir-bk/nyc-real-estate"
 
 # Social media (optional)
 twitter_username: your_twitter

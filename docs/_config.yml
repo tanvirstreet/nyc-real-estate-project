@@ -8,7 +8,9 @@ kramdown:
     disable: true
 
 # Theme
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 
 # Site settings
 title: The Autonomous Real Estate Agent
