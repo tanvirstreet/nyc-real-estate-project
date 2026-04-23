@@ -1,3 +1,8 @@
+---
+layout: page
+title: Business Requirements Document
+---
+
 # BUSINESS REQUIREMENTS DOCUMENT
 
 ---

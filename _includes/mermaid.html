@@ -1,0 +1,115 @@
+<!-- Mermaid JS for client-side diagram rendering -->
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+
+  // Initialize Mermaid
+  mermaid.initialize({
+    startOnLoad: false,
+    theme: 'default',
+    securityLevel: 'loose',
+    themeVariables: {
+      primaryColor: '#0EA5E9',
+      primaryTextColor: '#fff',
+      primaryBorderColor: '#0EA5E9',
+      lineColor: '#0EA5E9',
+      secondaryColor: '#f0f9ff',
+      tertiaryColor: '#f8f9fa'
+    }
+  });
+
+  // Auto-load .mmd files and render inline mermaid
+  async function loadMermaidFiles() {
+    const links = document.querySelectorAll('a[href$=".mmd"]');
+    const mermaidDivs = [];
+
+    for (const link of links) {
+      const href = link.getAttribute('href');
+      const text = link.textContent;
+
+      try {
+        const response = await fetch(href);
+        if (response.ok) {
+          const mermaidCode = await response.text();
+
+          // Create container for the diagram
+          const container = document.createElement('div');
+          container.className = 'mermaid-container';
+
+          // Create title from the link text or filename
+          const title = document.createElement('div');
+          title.className = 'mermaid-title';
+          title.textContent = text.replace('.mmd', '').replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+          container.appendChild(title);
+
+          // Create mermaid div
+          const mermaidDiv = document.createElement('div');
+          mermaidDiv.className = 'mermaid';
+          mermaidDiv.textContent = mermaidCode.trim();
+          container.appendChild(mermaidDiv);
+
+          // Replace the link with the diagram
+          link.parentNode.replaceChild(container, link);
+
+          mermaidDivs.push(mermaidDiv);
+        }
+      } catch (error) {
+        console.error(`Failed to load ${href}:`, error);
+      }
+    }
+
+    // Process inline mermaid code blocks
+    const inlineMermaid = document.querySelectorAll('pre code.language-mermaid, pre.mermaid');
+    inlineMermaid.forEach(block => {
+      const parent = block.tagName === 'CODE' ? block.parentElement : block;
+      parent.classList.add('mermaid');
+      parent.classList.remove('language-mermaid');
+      mermaidDivs.push(parent);
+    });
+
+    // Render all mermaid diagrams
+    if (mermaidDivs.length > 0) {
+      await mermaid.run({
+        nodes: mermaidDivs
+      });
+    }
+  }
+
+  // Run after DOM is loaded
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', loadMermaidFiles);
+  } else {
+    loadMermaidFiles();
+  }
+</script>
+
+<style>
+  .mermaid-container {
+    margin: 2em 0;
+    padding: 1.5em;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+  }
+
+  .mermaid-title {
+    font-weight: 600;
+    font-size: 0.85em;
+    color: #495057;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    text-align: center;
+  }
+
+  .mermaid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: auto;
+  }
+
+  .mermaid svg {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
