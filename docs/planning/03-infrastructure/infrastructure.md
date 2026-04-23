@@ -25,6 +25,7 @@ The infrastructure is designed around **three constraints**:
 ## 2. Infrastructure Topology
 
 > See diagram: [infra-diagram.md](diagrams/infra-diagram.md)
+![infra-diagram](./diagrams/infra-diagram.png)
 
 ```
 Internet
