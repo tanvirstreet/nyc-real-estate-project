@@ -25,7 +25,7 @@ This platform is **integration-first**. The autonomous real estate agent is only
 
 ## 2. Integration Map
 
-> See diagram: [integration-map.mmd](diagrams/integration-map.mmd)
+> See diagram: [integration-map.md](diagrams/integration-map.md)
 
 ---
 
