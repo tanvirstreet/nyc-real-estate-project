@@ -8,7 +8,7 @@ kramdown:
     disable: true
 
 # Theme
-theme: minima
+theme: just-the-docs
 
 # Site settings
 title: The Autonomous Real Estate Agent

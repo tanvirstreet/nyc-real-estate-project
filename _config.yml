@@ -1,5 +1,5 @@
 # GitHub Pages Configuration
-theme: minima
+theme: just-the-docs
 title: The Autonomous Real Estate Agent
 description: AI-Powered SaaS Platform for Real Estate Professionals
 author: Your Name
@@ -25,9 +25,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-relative-links
 
-# Minima theme settings
-minima:
-  date_format: "%Y-%m-%d"
+# Just the Docs theme settings
+# Navigation is automatically generated from folder structure
 
 # Social media (optional)
 twitter_username: your_twitter
