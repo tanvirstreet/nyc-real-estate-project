@@ -33,79 +33,8 @@ minima:
 twitter_username: your_twitter
 github_username: tanvir-bk
 
-# Navigation (sidebar structure)
-sidebar:
-  - title: "Overview"
-    children:
-      - title: "Home"
-        url: /
-      - title: "Business Requirements"
-        url: /docs/requirement/BRD.html
-  - title: "Planning"
-    children:
-      - title: "Architecture"
-        url: /docs/planning/01-architecture/
-        children:
-          - title: "System Architecture"
-            url: /docs/planning/01-architecture/system-architecture.html
-          - title: "SaaS Tenancy Model"
-            url: /docs/planning/01-architecture/saas-tenancy-model.html
-      - title: "Technology Stack"
-        url: /docs/planning/02-technology-stack/
-        children:
-          - title: "Tech Stack"
-            url: /docs/planning/02-technology-stack/tech-stack.html
-      - title: "Infrastructure"
-        url: /docs/planning/03-infrastructure/
-        children:
-          - title: "Infrastructure Overview"
-            url: /docs/planning/03-infrastructure/infrastructure.html
-          - title: "Cost Analysis"
-            url: /docs/planning/03-infrastructure/cost-analysis.html
-      - title: "Implementation"
-        url: /docs/planning/04-phased-implementation/
-        children:
-          - title: "Implementation Plan"
-            url: /docs/planning/04-phased-implementation/implementation-plan.html
-          - title: "Sprint 0: Foundation"
-            url: /docs/planning/04-phased-implementation/sprint-0-foundation.html
-          - title: "Sprint 1: Digital Hub"
-            url: /docs/planning/04-phased-implementation/sprint-1-phase1-digital-hub.html
-          - title: "Sprint 2: CRM & Leads"
-            url: /docs/planning/04-phased-implementation/sprint-2-phase2-crm.html
-          - title: "Sprint 3: Nurture"
-            url: /docs/planning/04-phased-implementation/sprint-3-phase3-nurture.html
-          - title: "Sprint 4: Content"
-            url: /docs/planning/04-phased-implementation/sprint-4-phase4-content.html
-      - title: "Integration Architecture"
-        url: /docs/planning/05-integration-architecture/
-        children:
-          - title: "Integration Overview"
-            url: /docs/planning/05-integration-architecture/integration-overview.html
-          - title: "API Contracts"
-            url: /docs/planning/05-integration-architecture/api-contracts.html
-      - title: "Data & Monitoring"
-        url: /docs/planning/06-data-monitoring/
-        children:
-          - title: "Data Architecture"
-            url: /docs/planning/06-data-monitoring/data-architecture.html
-          - title: "Monitoring Strategy"
-            url: /docs/planning/06-data-monitoring/monitoring-strategy.html
-      - title: "Risk Analysis"
-        url: /docs/planning/07-risk-analysis/
-        children:
-          - title: "Risk Register"
-            url: /docs/planning/07-risk-analysis/risk-register.html
-      - title: "Verification"
-        url: /docs/planning/08-verification-plan/
-        children:
-          - title: "Verification Plan"
-            url: /docs/planning/08-verification-plan/verification-plan.html
-      - title: "Resources"
-        url: /docs/planning/09-resources/
-        children:
-          - title: "Resource Plan"
-            url: /docs/planning/09-resources/resource-plan.html
+# GitHub Pages will display the natural folder structure on the left sidebar
+# No custom navigation needed - folder structure is automatically shown
 
 # Exclude from processing
 exclude:
