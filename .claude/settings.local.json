@@ -5,7 +5,10 @@
       "Bash(mkdir -p /Users/tanvir.inflack/workspace/nyc-real-estate/docs/planning/06-data-monitoring/diagrams)",
       "Bash(mkdir -p /Users/tanvir.inflack/workspace/nyc-real-estate/docs/planning/07-risk-analysis)",
       "Bash(mkdir -p /Users/tanvir.inflack/workspace/nyc-real-estate/docs/planning/08-verification-plan)",
-      "Bash(mkdir -p /Users/tanvir.inflack/workspace/nyc-real-estate/docs/planning/09-resources)"
+      "Bash(mkdir -p /Users/tanvir.inflack/workspace/nyc-real-estate/docs/planning/09-resources)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)"
     ]
   }
 }
