@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Sprint 2 - CRM & Leads
+parent: Implementation Plan
+grand_parent: Project Planning
+nav_order: 4
 ---
 
 # Sprint 2 — Phase 2: CRM & Intelligent Lead Management

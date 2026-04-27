@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Verification Plan
+parent: Verification Plan
+grand_parent: Project Planning
 ---
 
 # Verification Plan — QA, Testing, and UAT

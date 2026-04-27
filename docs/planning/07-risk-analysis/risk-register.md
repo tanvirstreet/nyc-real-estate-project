@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Risk Register
+parent: Risk Analysis
+grand_parent: Project Planning
 ---
 
 # Risk Register — Analysis and Mitigation

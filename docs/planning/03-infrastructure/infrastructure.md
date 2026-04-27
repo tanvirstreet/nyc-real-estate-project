@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Infrastructure Overview
+parent: Infrastructure
+grand_parent: Project Planning
 ---
 
 # Infrastructure — Bare Minimum Setup

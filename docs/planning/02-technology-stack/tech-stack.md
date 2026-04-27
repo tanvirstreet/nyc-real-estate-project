@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Technology Stack
+parent: Technology Stack
+grand_parent: Project Planning
 ---
 
 # Technology Stack — SaaS Platform

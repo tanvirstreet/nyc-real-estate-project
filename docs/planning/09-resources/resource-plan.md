@@ -1,3 +1,7 @@
+---
+parent: Resources
+grand_parent: Project Planning
+---
 # Resource Plan — Team, Skills, and Man-Hours
 
 **Project**: The Autonomous Real Estate Agent

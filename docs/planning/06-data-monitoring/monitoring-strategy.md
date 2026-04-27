@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Monitoring Strategy
+parent: Data & Monitoring
+grand_parent: Project Planning
 ---
 
 # Monitoring Strategy — Observability and Alerting

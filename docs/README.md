@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Autonomous Real Estate Agent
+nav_exclude: true
 ---
 
 # The Autonomous Real Estate Agent

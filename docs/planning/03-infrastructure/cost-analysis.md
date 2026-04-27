@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Cost Analysis
+parent: Infrastructure
+grand_parent: Project Planning
 ---
 
 # Cost Analysis — Bare Minimum to Scale

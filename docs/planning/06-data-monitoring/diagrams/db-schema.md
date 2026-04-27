@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 # Database Entity Relationship Diagram
 
 ## Complete Schema

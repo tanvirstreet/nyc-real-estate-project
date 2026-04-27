@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Phased Implementation Plan
+parent: Implementation Plan
+grand_parent: Project Planning
+nav_order: 1
 ---
 
 # Phased Implementation Plan — Overview

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Integration Architecture
+parent: Integration Architecture
+grand_parent: Project Planning
 ---
 
 # Integration Architecture — Third-Party Services

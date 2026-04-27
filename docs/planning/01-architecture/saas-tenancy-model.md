@@ -1,6 +1,8 @@
 ---
 layout: page
 title: SaaS Multi-Tenancy Model
+parent: Architecture
+grand_parent: Project Planning
 ---
 
 # SaaS Multi-Tenancy Model

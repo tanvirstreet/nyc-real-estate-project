@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#7C3AED', 'primaryTextColor': '#fff'}}}%%
 

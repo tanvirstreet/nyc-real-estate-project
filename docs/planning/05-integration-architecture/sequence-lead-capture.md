@@ -1,3 +1,7 @@
+---
+parent: Integration Architecture
+grand_parent: Project Planning
+---
 # Lead Capture Sequence Diagram
 
 ## Scenario: New Lead Submission from Landing Page

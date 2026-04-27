@@ -1,6 +1,8 @@
 ---
 layout: page
 title: System Architecture
+parent: Architecture
+grand_parent: Project Planning
 ---
 
 # System Architecture — SaaS Design

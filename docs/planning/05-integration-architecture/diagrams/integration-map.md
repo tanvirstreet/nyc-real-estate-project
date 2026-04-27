@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 # Integration Architecture Map
 
 ## Context Overview

@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Sprint 0 - Project Foundation
+parent: Implementation Plan
+grand_parent: Project Planning
+nav_order: 2
 ---
 
 # Sprint 0 — Project Foundation

@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 ```mermaid
 sequenceDiagram
     autonumber

@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Project Planning Documentation
+title: Project Planning
+nav_order: 3
+has_children: true
 ---
 
 # Project Planning Documentation

@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 ```mermaid
 graph LR
     S0["Sprint 0<br/>Foundation"] --> S1["Sprint 1<br/>Digital Hub"]

@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Sprint 4 - Content
+parent: Implementation Plan
+grand_parent: Project Planning
+nav_order: 6
 ---
 
 # Sprint 4 — Phase 4: The Content Factory

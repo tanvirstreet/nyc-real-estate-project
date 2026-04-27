@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Business Requirements Document
+nav_order: 2
 ---
 
 # BUSINESS REQUIREMENTS DOCUMENT

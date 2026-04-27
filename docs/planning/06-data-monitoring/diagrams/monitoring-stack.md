@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 # Monitoring Stack Architecture
 
 ## Complete Monitoring Ecosystem

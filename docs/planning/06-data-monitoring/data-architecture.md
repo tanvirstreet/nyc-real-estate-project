@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Data Architecture
+parent: Data & Monitoring
+grand_parent: Project Planning
 ---
 
 # Data Architecture — Models and Strategy

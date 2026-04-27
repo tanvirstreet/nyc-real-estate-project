@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Sprint 3 - Nurture
+parent: Implementation Plan
+grand_parent: Project Planning
+nav_order: 5
 ---
 
 # Sprint 3 — Phase 3: Automated Nurture & Closing

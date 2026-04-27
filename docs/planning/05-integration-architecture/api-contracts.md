@@ -1,6 +1,8 @@
 ---
 layout: page
 title: API Contracts
+parent: Integration Architecture
+grand_parent: Project Planning
 ---
 
 # API Contracts — Interface Definitions

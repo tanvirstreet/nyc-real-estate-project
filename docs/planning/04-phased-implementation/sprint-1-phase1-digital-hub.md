@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Sprint 1 - Digital Hub
+parent: Implementation Plan
+grand_parent: Project Planning
+nav_order: 3
 ---
 
 # Sprint 1 — Phase 1: Digital Hub & AI Lead Capture
